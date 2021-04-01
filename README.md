@@ -6,7 +6,7 @@ Detect network connection changes, and block user interaction when it's offline.
 
 - Show current network status
 - Log network changes and durations
-- Block user interaction during offline(configurable)
+- Block user interaction during offline
 - Record network uptime
 
 ## Vendor
@@ -15,8 +15,8 @@ Detect network connection changes, and block user interaction when it's offline.
 
 ## Reference
 
-[Navigator.onLine](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine)
-[Window: offline event](https://developer.mozilla.org/en-US/docs/Web/API/Window/offline_event)
+- [Navigator.onLine](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine)
+- [Window: offline event](https://developer.mozilla.org/en-US/docs/Web/API/Window/offline_event)
 
 ## Changelog
 
